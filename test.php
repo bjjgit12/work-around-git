@@ -7,13 +7,4 @@ echo "Same commit";
 echo "Jeni";
 echo "Chenges for branchTwo";
 echo "Test";
-
-
-
-
-
-
-
-
-echo "hello";
 ?>
