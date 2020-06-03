@@ -1,5 +1,5 @@
 <?php
-echo "hello";
+echo "Hello";
 echo "Bijen Is Learning git";
 echo "BRnachOne";
 echo "BRnachOne PR";
